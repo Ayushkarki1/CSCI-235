@@ -1,0 +1,12 @@
+---
+:id: 195954505
+:submitters:
+- :name: Ayush Karki
+  :email: ayush.karki42@myhunter.cuny.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-09-23 02:57:18.865173000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-09-22 19:57:18.865173000 Z
+:status: processed
+:score: 95.0
